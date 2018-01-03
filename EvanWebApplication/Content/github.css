@@ -1,0 +1,11 @@
+.githubbutton {
+    background-image: url(/Content/images/github.png); /* 16px x 16px */ /* make the button transparent */
+    background-repeat: no-repeat;  /* make the background image appear only once */
+    background-position: 4px 4px;  /* equivalent to 'top left' */
+    border: none;           /* assuming we don't want any borders */
+    cursor: pointer;        /* make the cursor like hovering over an <a> element */
+    height: 40px;           /* make this the size of your image */
+    padding-left: 38px; 
+    /* make text start to the right of the image */
+    vertical-align: middle; /* align the text vertically centered */
+}
